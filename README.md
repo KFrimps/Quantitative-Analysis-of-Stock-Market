@@ -21,4 +21,4 @@ This project, mathematical and statistical techniques are used to understand, pr
 - <b>plotly.subplots</b>
 - <b>plotly.io</b>
 
- ### [Click to visit code](https://github.com/KFrimps/Delhi-Metro-Network-Analysis/blob/main/Delhi%20Metro%20Network%20Analysis.ipynb)
+ ### [Click to visit code](https://github.com/KFrimps/Quantitative-Analysis-of-Stock-Market/blob/main/Quantitative%20Analysis%20of%20Stock%20Market.ipynb)
